@@ -1,0 +1,93 @@
+[
+  {
+    "title":"python crash course:,
+    "author": "Eric Matthes",
+    "publication_year": 2019,
+    "genre":"Programming",
+    "read_status", false,
+    "added_data": :2025-03-20 06:00:14"
+  },
+[
+    {
+        "title": "Automate the Boring Stuff with Python",
+        "author": "Al Sweigart",
+        "publication_year": 2019,
+        "genre": "Programming",
+        "read_status": true,
+        "added_date": "2025-03-20 06:05:14"
+    },
+    {
+        "title": "Learning Python",
+        "author": "Mark Lutz",
+        "publication_year": 2013,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-20 06:10:14"
+    },
+    {
+        "title": "Fluent Python",
+        "author": "Luciano Ramalho",
+        "publication_year": 2015,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-20 06:15:14"
+    },
+    {
+        "title": "Python for Data Analysis",
+        "author": "Wes McKinney",
+        "publication_year": 2017,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-20 06:20:14"
+    },
+    {
+        "title": "Effective Python: 90 Specific Ways to Write Better Python",
+        "author": "Brett Slatkin",
+        "publication_year": 2015,
+        "genre": "Programming",
+        "read_status": true,
+        "added_date": "2025-03-20 06:25:14"
+    },
+    {
+        "title": "Think Python: How to Think Like a Computer Scientist",
+        "author": "Allen B. Downey",
+        "publication_year": 2015,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-20 06:30:14"
+    },
+    {
+        "title": "Head First Python",
+        "author": "Paul Barry",
+        "publication_year": 2016,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-20 06:35:14"
+    },
+    {
+        "title": "Python Programming: An Introduction to Computer Science",
+        "author": "John Zelle",
+        "publication_year": 2016,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-20 06:40:14"
+    },
+    {
+        "title": "Python Tricks: A Buffet of Awesome Python Features",
+        "author": "Dan Bader",
+        "publication_year": 2017,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-20 06:45:14"
+    },
+    {
+        "title": "Introduction to Machine Learning with Python",
+        "author": "Andreas C. Müller, Sarah Guido",
+        "publication_year": 2016,
+        "genre": "Programming",
+        "read_status": false,
+        "added_date": "2025-03-20 06:50:14"
+    }
+]
+
+]
